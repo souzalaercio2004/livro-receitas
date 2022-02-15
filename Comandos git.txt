@@ -5,3 +5,6 @@ git init
 git add *
 git commit -m "Primeiro Commit"
 git status
+(use "git restore --staged <file>..." to unstage)
+git remote add origin https://github.com/souzalaercio2004/livro-receitas.git
+
