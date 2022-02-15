@@ -1,0 +1,4 @@
+git config --global user.email "souzalaercio2004@yahoo.com.br"
+git config --global user.name Laercio
+git add *
+git commit -m "Primeiro Commit"
